@@ -1,0 +1,40 @@
+{
+    "manifest": {
+        "author": "miwoomsmsmsm",
+        "name": "Spotify Theme",
+        "version": "1.0"
+    },
+    "background": {},
+    "fonts": {
+        "whitney_bold": "https:\/\/github.com\/miwooscatrisadinha\/Spotify-Theme\/raw\/refs\/heads\/main\/Fonts\/Gotham-Bold.otf",
+        "whitney_medium": "https:\/\/github.com\/miwooscatrisadinha\/Spotify-Theme\/raw\/refs\/heads\/main\/Fonts\/GothamMedium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/miwooscatrisadinha\/Spotify-Theme\/raw\/refs\/heads\/main\/Fonts\/GothamBook.ttf",
+        "ginto_medium": "https:\/\/github.com\/miwooscatrisadinha\/Spotify-Theme\/raw\/refs\/heads\/main\/Fonts\/Gotham-Black.otf",
+        "ginto_bold": "https:\/\/github.com\/miwooscatrisadinha\/Spotify-Theme\/raw\/refs\/heads\/main\/Fonts\/GothamBoldItalic.ttf"
+    },
+    "simple_colors": {
+        "mention_highlight": -2096061628,
+        "active_channel": -14163863,
+        "input_background": -15224754,
+        "statusbar": 16646142,
+        "blocked_bg": -14013910,
+        "accent": -14756000
+    },
+    "colors": {
+        "primary_dark_600": -16777216,
+        "primary_dark_660": -16777216,
+        "link_500": -14756000,
+        "primary_dark_300": -14756250,
+        "primary_dark_630": -16777216,
+        "primary_dark_800": -16776960,
+        "primary_dark_330": -3552823,
+        "primary_dark_700": -16777216
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_dark_24dp": -14756250,
+        "ic_sidebar_pins_on_dark_24dp": -14756250,
+        "ic_sidebar_notifications_on_dark_24dp": -14756250,
+        "ic_sidebar_notifications_off_dark_24dp": -14756250
+    },
+    "raws": {}
+}
